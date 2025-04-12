@@ -10,14 +10,14 @@
 </p>
 
 About
-🙌 My personal website is a platform where I showcase every single thing related to me 🌈. This website is hosted on GitHub Pages at [connect-with-thepratholic.github.io](https://connect-with-thepratholic.github.io/).
+🙌 My personal website is a platform where I showcase every single thing related to me 🌈. This website is hosted on GitHub Pages at [connect-with-thepratholic.github.io](https://thepratholic.github.io/connect-with-thepratholic/).
 
 ## Get Started 🌱
 
 1. Clone this repository
 
 ```
-git clone https://github.com/thepratholic/connect-with-thepratholic.github.io.git
+git clone https://thepratholic.github.io/connect-with-thepratholic/
 cd connect-with-thepratholic.gtihub.io
 ```
 
@@ -25,7 +25,7 @@ cd connect-with-thepratholic.gtihub.io
 
 ## View ✌✨
 
-Visit [connect-with-thepratholic](https://connect-with-thepratholic.github.io/) to view the live version of my website.
+Visit [connect-with-thepratholic](https://thepratholic.github.io/connect-with-thepratholic/) to view the live version of my website.
 
 ## Features
 
