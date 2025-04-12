@@ -18,7 +18,6 @@ About
 
 ```
 git clone https://thepratholic.github.io/connect-with-thepratholic/
-cd connect-with-thepratholic.gtihub.io
 ```
 
 3. Open `index.html` to view the website locally.
